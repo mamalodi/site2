@@ -7,7 +7,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 			background: #fff;
 			box-shadow: 0 0 3px 2px #9A9D8C;
 			border-radius: 10px 10px 0 0;
-			border: 1px solid green;
+			border: 1px solid gold;
                         padding: 2px;
 		}
 
@@ -29,7 +29,7 @@ a:hover{text-decoration:underline; color: #CC0000;}
 .no_border{border:0!important}
 .hide{display:none}
 .required{color:red}
-.good{color:green;font-weight:700}
+.good{color:gold;font-weight:700}
 .bad{color:red;font-weight:700}
 .pad{padding:10px}
 .pad_side{padding:0 10px}
@@ -48,11 +48,11 @@ a:hover{text-decoration:underline; color: #CC0000;}
 .bold{font-weight:700}
 .unspaced{line-height:15px}
 .inline_img{vertical-align:middle}
-.light_green{color:#93ad2a}
-.green{color:#6c8d14}
+.light_gold{color:#93ad2a}
+.gold{color:#6c8d14}
 .orange{color:#f36b28}
 .dark{color:#4a484a}
-.blue{color:green}
+.blue{color:gold}
 h1{font-size:27px; 
 padding-bottom:2px; 
 border-bottom:0px solid #ebeaeb; 
